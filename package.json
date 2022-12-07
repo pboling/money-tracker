@@ -32,7 +32,7 @@
   "devDependencies": {
     "eslint-plugin-react": "^7.5.1",
     "react-test-renderer": "^16.2.0",
-    "surge": "^0.19.0"
+    "surge": "^0.23.1"
   },
   "scripts": {
     "pretty": "prettier --write --single-quote --no-semi 'src/**/*.js'",
